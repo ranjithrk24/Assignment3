@@ -4,10 +4,5 @@ def reverse():
     for i in string:
         reversed_string=i+reversed_string
     return reversed_string
-print(reverse())
-
-
-
-    
-
-
+reversed=reverse()
+print(reversed)
